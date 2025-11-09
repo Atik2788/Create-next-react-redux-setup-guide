@@ -6,15 +6,14 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ---
 
 ## 🧠 Project Overview
 
-Building a new React project can be confusing for beginners —  
-Which one first? Tailwind, Router, Redux, or Axios?  
-
-This repo provides a **step-by-step setup guide** so you can start clean every time without repeating the same boilerplate setup.
+Building a new React + TypeScript project can be confusing for beginners —
+Which one first? Tailwind, Router, Redux, or Axios?
+This repo provides a **step-by-step TypeScript setup guide** so you can start clean every time without repeating the same boilerplate.
 
 ---
 
@@ -22,7 +21,7 @@ This repo provides a **step-by-step setup guide** so you can start clean every t
 
 ### 1️⃣ Create a project with Vite
 ```bash
-npm create vite@latest my-app --template react
+npm create vite@latest my-app -- --template react-ts
 cd my-app
 npm i
 ```
